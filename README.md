@@ -1,6 +1,7 @@
 - Olá, eu sou o @artjansentec(Arthur)
 - Estou aprendendo novas linguagens de programção  
 - Voce pode me chamar usando o meu email : artjansentec@gmail.com
-- Novo na linguagem ruby on rails 
+- Programdor de ruby on rails, PHP, Js
+- E aprendendo C e React  
 
 
